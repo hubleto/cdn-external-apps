@@ -1,0 +1,11 @@
+{
+	"repositories": [
+	    {
+		"type": "vcs",
+		"url": "https://github.com/120580900/rindo789/hubleto-worksheet-boards"
+	    }
+	],
+	"require": {
+		"rindo789/hubleto-worksheet-boards": "2.3.1"
+	}
+}
