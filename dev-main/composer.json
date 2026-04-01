@@ -1,11 +1,16 @@
 {
 	"repositories": [
 	    {
-		"type": "vcs",
-		"url": "https://github.com/120580900/rindo789/hubleto-worksheet-boards"
-	    }
+			"type": "vcs",
+			"url": "https://github.com/120580900/rindo789/hubleto-worksheet-boards"
+	    },
+		{
+			"type": "vcs",
+			"url":	"https://github.com/120195875/mibarnas/hubleto-app"
+		}
 	],
 	"require": {
-		"rindo789/hubleto-worksheet-boards": "2.3.1"
+		"rindo789/hubleto-worksheet-boards": "2.3.1",
+		"mibarnas/hubleto-app": "@dev"
 	}
 }
