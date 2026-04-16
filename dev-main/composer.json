@@ -1,4 +1,5 @@
 {
+	"name": "hubleto/dev-main-external-apps",
 	"repositories": [
 	    {
 			"type": "vcs",
