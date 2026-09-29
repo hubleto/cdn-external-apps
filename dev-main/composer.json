@@ -8,10 +8,15 @@
 		{
 			"type": "vcs",
 			"url":	"https://github.com/120195875/mibarnas/hubleto-app"
+		}.
+		{
+			"type": "vcs",
+			"url":	"https://github.com/120195875/mibarnas/hubleto-training-suite"
 		}
 	],
 	"require": {
 		"rindo789/hubleto-worksheet-boards": "2.3.1",
-		"mibarnas/hubleto-app": "dev-main"
+		"mibarnas/hubleto-app": "dev-main",
+		"mibarnas/hubleto-training-suite": "1.0.0"
 	}
 }
