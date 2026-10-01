@@ -15,7 +15,7 @@
 		}
 	],
 	"require": {
-		"rindo789/hubleto-worksheet-boards": "2.3.1",
+		"rindo789/hubleto-worksheet-boards": "^2.0",
 		"mibarnas/hubleto-app": "dev-main",
 		"mibarnas/hubleto-training-suite": "dev-master"
 	}
